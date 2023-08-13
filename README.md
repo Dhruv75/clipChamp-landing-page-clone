@@ -1,2 +1,3 @@
-# clipChamp-landing-page-clone
-# clipChamp-landing-page-clone
+# Clipchamp-landing-page-clone
+created a simple landing page of Clipchamp website using HTML and CSS
+
